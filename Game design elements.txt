@@ -1,0 +1,11 @@
+Game name
+1.Characters
+A PC  
+B NPC
+2.Story
+3.goals
+4.Rules
+5.Balance
+6.Adaptivity
+7.Chance VS skill
+8.Feedback
